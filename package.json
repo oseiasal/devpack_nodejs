@@ -10,7 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "devpack_nodejs": "github:oseiasal/devpack_nodejs",
     "jsonwebtoken": "^9.0.2"
   },
   "devDependencies": {
