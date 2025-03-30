@@ -1,4 +1,5 @@
 # DevPack Node.js
+[![Tests coverage](https://github.com/oseiasal/devpack_nodejs/actions/workflows/node.js.yml/badge.svg)](https://github.com/oseiasal/devpack_nodejs/actions/workflows/node.js.yml)
 
 ## Descrição
 
