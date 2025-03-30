@@ -1,7 +1,7 @@
 {
   "name": "devpack_nodejs",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "jest"
   },
@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "devpack_nodejs": "github:oseiasal/devpack_nodejs",
     "jsonwebtoken": "^9.0.2"
   },
   "devDependencies": {
@@ -17,5 +18,8 @@
     "@babel/preset-react": "^7.26.3",
     "babel-jest": "^29.7.0",
     "jest": "^29.7.0"
+  },
+  "exports": {
+    "./auth": "./src/auth/index.js"
   }
 }

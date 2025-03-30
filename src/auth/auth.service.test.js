@@ -1,4 +1,4 @@
-import { AuthService } from './auth.service';
+import { AuthService } from "./auth.service";
 
 describe('AuthService', () => {
     test('deve gerar um token JWT', () => {
