@@ -29,6 +29,6 @@ A estrutura do projeto é organizada da seguinte maneira:
 Para começar a usar o **DevPack Node.js** em seu projeto, siga os passos abaixo:
 
 ```
-npm install git+https://gitlab.com/organizacao/devpack_nodejs.git
+npm install git+https://gitlab.com/oseiasal/devpack_nodejs.git
 ```
 
